@@ -1,7 +1,7 @@
 ### I'm Nayeem Mustakim 👋
 - 🔭 I’m currently working on both personal and client projects.
 - 🌱 Actively building apps with **Flutter**.
-- 👯 Open to collaborating on innovative and impactful projects.
+- 🤝 Open to collaborating on innovative and impactful projects.
 - ⚡ Fun fact: I love playing **badminton** and going **cycling**!
 - 
 ### :hammer_and_wrench: Languages and Tools :
