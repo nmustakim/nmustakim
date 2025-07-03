@@ -53,16 +53,10 @@ const nayeem = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🎨 UI/UX & Design
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ### 🔧 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,7 +72,7 @@ const nayeem = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayeem-mustakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-mustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -148,41 +142,6 @@ const nayeem = {
 
 ---
 
-## 💡 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nayeem-mustakim/awesome-flutter-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayeem-mustakim&repo=awesome-flutter-app&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF" alt="Awesome Flutter App" />
-  </a>
-  <a href="https://github.com/nayeem-mustakim/mobile-ui-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nayeem-mustakim&repo=mobile-ui-kit&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF" alt="Mobile UI Kit" />
-  </a>
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Beautiful UIs with Flutter: A Complete Guide](https://dev.to/nayeem_mustakim/building-beautiful-uis-with-flutter)
-- [Flutter State Management: Best Practices](https://dev.to/nayeem_mustakim/flutter-state-management-best-practices)
-- [Mobile App Performance Optimization Tips](https://dev.to/nayeem_mustakim/mobile-app-performance-optimization)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💰 Support My Work
-
-If you find my work helpful, consider supporting me:
-
-<div align="center">
-  <a href="https://buymeacoffee.com/nayeem_mustakim" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/nayeem_mustakim" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-</div>
 
 ---
 
