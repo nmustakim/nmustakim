@@ -14,7 +14,7 @@ const nayeem = {
   title: "Full-Stack Flutter Developer",
   location: "Bangladesh",
   currentFocus: "Building amazing Flutter applications",
-  interests: ["Mobile Development", "UI/UX Design", "Open Source"],
+  interests: ["Mobile App Development", "AI", ML],
   hobbies: ["🏸 Badminton", "🚲 Cycling", "📚 Learning new technologies"],
   availableFor: "New opportunities | Freelance projects and collaborations"
 };
