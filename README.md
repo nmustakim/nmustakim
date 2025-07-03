@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nayeem-mustakim&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nayeem-mustakim?color=blueviolet&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/nmustakim?color=blueviolet&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
 </div>
 
 ---
@@ -76,26 +76,12 @@ const nayeem = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-mustakim&theme=tokyonight&background=0D1117&stroke=8B45FF&ring=8B45FF&fire=FF006E&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmustakim&theme=tokyonight&background=0D1117&stroke=8B45FF&ring=8B45FF&fire=FF006E&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayeem-mustakim&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=15&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayeem-mustakim&theme=tokyo-night&bg_color=0D1117&color=8B45FF&line=FF006E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🎮 When I'm Not Coding
 
