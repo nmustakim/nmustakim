@@ -1,11 +1,11 @@
 # Hi there, I'm Nayeem Mustakim 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B45FF&center=true&vCenter=true&width=600&lines=Full-Stack+Flutter+Developer;Mobile+App+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B45FF&center=true&vCenter=true&width=600&lines=Full-Stack+Flutter+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayeem-mustakim&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nmustakim&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/nmustakim?color=blueviolet&style=flat-square&logo=github&label=Followers" alt="GitHub Followers" />
 </div>
 
@@ -17,11 +17,11 @@
 const nayeem = {
   name: "Nayeem Mustakim",
   title: "Full-Stack Flutter Developer",
-  location: "Bangladesh 🇧🇩",
+  location: "Bangladesh,
   currentFocus: "Building amazing Flutter applications",
   interests: ["Mobile Development", "UI/UX Design", "Open Source"],
-  hobbies: ["🏸 Badminton", "🚴 Cycling", "📚 Learning new technologies"],
-  availableFor: "Freelance projects and collaborations"
+  hobbies: ["🏸 Badminton", "⚡ Cycling", "📚 Learning new technologies"],
+  availableFor: "New opportunities | Freelance projects and collaborations"
 };
 ```
 
@@ -63,6 +63,8 @@ const nayeem = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Xcode-3DDC84?style=for-the-badge&logo=xcode&logoColor=white)
+
 
 </div>
 
@@ -71,7 +73,7 @@ const nayeem = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayeem-mustakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmustakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF"/>
 </div>
 
