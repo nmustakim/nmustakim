@@ -32,7 +32,7 @@ const nayeem = {
 - 🔭 **Currently working on** both personal and client projects
 - 🌱 **Learning & building** amazing apps with **Flutter**
 - 🤝 **Open to collaborating** on innovative and impactful projects
-- 💬 **Ask me about** Flutter, Mobile Development, and UI/UX
+- 💬 **Ask me about** Flutter,and Mobile Development
 - ⚡ **Fun fact:** I love playing **badminton** and going **cycling**!
 
 ---
@@ -49,14 +49,13 @@ const nayeem = {
 
 ### 💻 Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-316192?style=for-the-badge&logo=hive&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,19 +97,6 @@ const nayeem = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/nmustakim/flutter-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmustakim&repo=flutter-project-1&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF" alt="Project 1" />
-  </a>
-  <a href="https://github.com/nmustakim/flutter-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmustakim&repo=flutter-project-2&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF" alt="Project 2" />
-  </a>
-</div>
-
----
-
 ## 🎮 When I'm Not Coding
 
 <div align="center">
@@ -137,13 +123,6 @@ const nayeem = {
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&color=8B45FF" alt="Random Dev Quote" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
