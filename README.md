@@ -15,7 +15,7 @@ const nayeem = {
   location: "Bangladesh",
   currentFocus: "Building amazing Flutter applications",
   interests: ["Mobile Development", "UI/UX Design", "Open Source"],
-  hobbies: ["🏸 Badminton", "🚴 Cycling", "📚 Learning new technologies"],
+  hobbies: ["🏸 Badminton", "🚲 Cycling", "📚 Learning new technologies"],
   availableFor: "New opportunities | Freelance projects and collaborations"
 };
 ```
