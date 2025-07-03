@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B45FF&center=true&vCenter=true&width=600&lines=Full-Stack+Flutter+Developer;Mobile+App+Enthusiast;Flutter+%26+Dart+Expert" alt="Typing SVG" />
 </div>
+
 ---
 
 ## 🚀 About Me
