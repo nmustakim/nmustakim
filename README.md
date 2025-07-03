@@ -132,8 +132,4 @@ const nayeem = {
   <sub>⭐ From <a href="https://github.com/nmustakim">Nayeem Mustakim</a> with ❤️</sub>
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
