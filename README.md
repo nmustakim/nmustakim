@@ -1,7 +1,7 @@
 # Hi there, I'm Nayeem Mustakim 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B45FF&center=true&vCenter=true&width=600&lines=Full-Stack+Flutter+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B45FF&center=true&vCenter=true&width=600&lines=Full-Stack+Flutter+Developer;Mobile+App+Enthusiast;Flutter+%26+Dart+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,10 +17,10 @@
 const nayeem = {
   name: "Nayeem Mustakim",
   title: "Full-Stack Flutter Developer",
-  location: "Bangladesh,
+  location: "Bangladesh",
   currentFocus: "Building amazing Flutter applications",
   interests: ["Mobile Development", "UI/UX Design", "Open Source"],
-  hobbies: ["🏸 Badminton", "⚡ Cycling", "📚 Learning new technologies"],
+  hobbies: ["🏸 Badminton", "🚴 Cycling", "📚 Learning new technologies"],
   availableFor: "New opportunities | Freelance projects and collaborations"
 };
 ```
@@ -48,22 +48,22 @@ const nayeem = {
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=dart&logoColor=blue)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Xcode-3DDC84?style=for-the-badge&logo=xcode&logoColor=blue)
-
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 
 </div>
 
@@ -82,7 +82,34 @@ const nayeem = {
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nmustakim&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmustakim&theme=tokyo-night&bg_color=0D1117&color=8B45FF&line=8B45FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/nmustakim/flutter-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmustakim&repo=flutter-project-1&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF" alt="Project 1" />
+  </a>
+  <a href="https://github.com/nmustakim/flutter-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nmustakim&repo=flutter-project-2&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF" alt="Project 2" />
+  </a>
+</div>
+
+---
 
 ## 🎮 When I'm Not Coding
 
@@ -95,7 +122,7 @@ const nayeem = {
         <sub><b>Love playing badminton</b></sub>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/🚴-Cycling-blueviolet?style=for-the-badge" alt="Cycling" />
+        <img src="https://img.shields.io/badge/🚲-Cycling-blueviolet?style=for-the-badge" alt="Cycling" />
         <br>
         <sub><b>Exploring on two wheels</b></sub>
       </td>
@@ -110,11 +137,24 @@ const nayeem = {
 
 ---
 
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&color=8B45FF" alt="Random Dev Quote" />
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
 </div>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/nayeem-mustakim">Nayeem Mustakim</a> with ❤️</sub>
+  <sub>⭐ From <a href="https://github.com/nmustakim">Nayeem Mustakim</a> with ❤️</sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
