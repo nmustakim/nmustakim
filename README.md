@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 ```typescript
-const nayeem = {
+const nmustakim = {
   name: "Nayeem Mustakim",
   title: "Full-Stack Flutter Developer",
   location: "Bangladesh",
