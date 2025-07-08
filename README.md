@@ -45,7 +45,7 @@ const nmustakim = {
 ### 💻 Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://wiki.python.org/moin/FrontPage)
 
 ### 🔧 Backend & Database
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -66,12 +66,12 @@ const nmustakim = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmustakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nmustakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmustakim&theme=tokyonight&background=0D1117&stroke=8B45FF&ring=8B45FF&fire=FF006E&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nmustakim&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B45FF&ring=8B45FF&fire=FF006E&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -79,7 +79,7 @@ const nmustakim = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nmustakim&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nmustakim&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -118,13 +118,11 @@ const nmustakim = {
 
 ---
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer" />
 </div>
 
 <div align="center">
   <sub>⭐ From <a href="https://github.com/nmustakim">Nayeem Mustakim</a> with ❤️</sub>
-</div>
-
-
+</div></tml:parameter>
+</invoke>
