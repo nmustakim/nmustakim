@@ -70,9 +70,8 @@ const nmustakim = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nmustakim&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=nmustakim&theme=tokyonight&hide_border=true&background=#0D1117&stroke=#8B45FF&ring=#8B45FF&fire=#FF006E&currStreakLabel=#FFFFFF&sideNums=#FFFFFF&currStreakNum=#FFFFFF&dates=#FFFFFF&sideLabels=#FFFFFF" alt="GitHub Streak Stats"/>
 </div>
-
 
 ---
 
