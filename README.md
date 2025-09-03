@@ -69,7 +69,9 @@ const nmustakim = {
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&hide_border=true"/>
 </div>
 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nmustakim&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
 
 
 ---
