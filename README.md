@@ -61,43 +61,6 @@ const nmustakim = {
 
 </div>
 
----
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nmustakim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&icon_color=8B45FF"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmustakim&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B45FF&text_color=FFFFFF&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nmustakim&theme=tokyonight&hide_border=true&background=#0D1117&stroke=#8B45FF&ring=#8B45FF&fire=#FF006E&currStreakLabel=#FFFFFF&sideNums=#FFFFFF&currStreakNum=#FFFFFF&dates=#FFFFFF&sideLabels=#FFFFFF" alt="GitHub Streak Stats"/>
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏸-Badminton-blueviolet?style=for-the-badge" alt="Badminton" />
-        <br>
-        <sub><b>Love playing badminton</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚲-Cycling-blueviolet?style=for-the-badge" alt="Cycling" />
-        <br>
-        <sub><b>Exploring on two wheels</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📚-Learning-blueviolet?style=for-the-badge" alt="Learning" />
-        <br>
-        <sub><b>Always learning new tech</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
