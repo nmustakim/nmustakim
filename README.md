@@ -75,22 +75,6 @@ const nmustakim = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nmustakim&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmustakim&theme=tokyo-night&bg_color=0D1117&color=8B45FF&line=8B45FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ## 🎮 When I'm Not Coding
 
 <div align="center">
